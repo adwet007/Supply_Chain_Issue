@@ -12,8 +12,8 @@ The Supply Chain team decided to use a standard approach to measure the service 
 
 Peter Pandey is the data analyst in the supply chain team who joined AtliQ Mart recently. He has been briefed about the the task in the stakeholder business review meeting. Now imagine yourself as Peter Pandey and play the role of the new data analyst who is excited to build this dashboard and perform the following task:
 
-### 1.Create the metrics according to the metrics list.
+#### 1.Create the metrics according to the metrics list.
 
-### 2.Create a dashboard according to the requirements provided by stakeholders in the business review meeting. You will be provided with the transcript of this business review meeting in comic form.
+#### 2.Create a dashboard according to the requirements provided by stakeholders in the business review meeting. You will be provided with the transcript of this business review meeting in comic form.
 
-### 3.Create relevant insights not provided in the metric list/stakeholder meeting.
+#### 3.Create relevant insights not provided in the metric list/stakeholder meeting.
