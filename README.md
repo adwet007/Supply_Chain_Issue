@@ -17,3 +17,17 @@ Peter Pandey is the data analyst in the supply chain team who joined AtliQ Mart 
 #### 2.Create a dashboard according to the requirements provided by stakeholders in the business review meeting. You will be provided with the transcript of this business review meeting in comic form.
 
 #### 3.Create relevant insights not provided in the metric list/stakeholder meeting.
+
+## Insights
+
+#### 1.OTIF (On-Time In-Full) Performance:
+
+The overall OTIF percentage is 29.02%, falling significantly short of the target 65.91% (-55.97%). This indicates that a large portion of orders are not being delivered as promised.
+
+#### 2.Delayed Orders:
+
+66% of orders are delayed, and the average delay in delivery is concerning, highlighting a need to improve supply chain logistics and scheduling.
+
+#### 3.City-Wise Performance:
+
+Ahmedabad performs slightly better in OTIF at 54.20% compared to Surat (52.55%) and Vadodara (51.56%), but all three cities fall well below target levels.
